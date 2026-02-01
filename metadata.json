@@ -1,0 +1,5 @@
+{
+  "name": "HexSpec: Magic Number Forensic Tool",
+  "description": "A high-fidelity terminal-based file identifier that uses magic numbers (file signatures) to unmask hidden file types and provides deep security insights via Gemini.",
+  "requestFramePermissions": []
+}
